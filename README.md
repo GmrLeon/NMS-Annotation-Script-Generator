@@ -1,4 +1,4 @@
-As the brief description indicates, this is built to produce three Annotation Scripts for three of the large tables used in the game No Man's Sky. These are the Technology, Product, and Substance Tables. Currently these **do not** annotate the substances/products used to charge or craft equipment/tech/products, as I had trouble figuring out a way to write this to do so.
+As the brief description indicates, this is built to produce three Annotation Scripts for three of the large tables used in the game No Man's Sky. These are the Technology, Product, and Substance Tables. Currently these ***do not*** annotate the substances/products used to charge and/or craft equipment/tech/products, as I had trouble figuring out a way to write this to do so.
 
 Nevertheless, it *does* annotate the names of every Technology, Product, and Substance in these tables, which should prove helpful in translating the charging/crafting requirements.
 
